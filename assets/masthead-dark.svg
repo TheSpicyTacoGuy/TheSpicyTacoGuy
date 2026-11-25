@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="t">
+  <title id="t">Dylan Robinson, software developer in the Yarra Valley, Victoria</title>
+  <rect width="1280" height="460" fill="#17130f"/>
+  <rect x="32" y="32" width="1216" height="396" fill="none" stroke="#322b24" stroke-width="1"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.6" fill="#b0a391">
+    <text x="64" y="76">PROFILE / 2026</text>
+    <text x="1216" y="76" text-anchor="end">DYLAN-ROBINSON.DEV</text>
+  </g>
+  <circle cx="1076" cy="186" r="4" fill="#f08a4b"/>
+  <text x="1096" y="191" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.6" fill="#b0a391">OPEN TO WORK</text>
+
+  <line x1="64" y1="100" x2="1216" y2="100" stroke="#4a4137" stroke-width="1">
+    <animate attributeName="x2" from="64" to="1216" dur="0.9s" fill="freeze"/>
+  </line>
+  <line x1="64" y1="100" x2="160" y2="100" stroke="#f08a4b" stroke-width="2"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <text x="62" y="196" font-family="Georgia, Times New Roman, serif" font-size="82" letter-spacing="-1.5" fill="#efe6d8">Dylan Robinson</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.28s" fill="freeze"/>
+    <text x="64" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#b0a391">Software developer in the Yarra Valley. I build the whole thing, from schema to deployment.</text>
+  </g>
+
+  <line x1="64" y1="300" x2="1216" y2="300" stroke="#322b24" stroke-width="1"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2.4" fill="#b0a391">
+    <text x="64" y="332">NOW</text>
+    <text x="352" y="332">STUDYING</text>
+    <text x="640" y="332">BASED</text>
+    <text x="928" y="332">OPEN TO</text>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#efe6d8">
+    <text x="64" y="362">Lead developer and director</text>
+    <text x="64" y="386">at CTRL Accounting</text>
+    <text x="352" y="362">BSc Computer Science</text>
+    <text x="352" y="386">Swinburne, 2024 to 2026</text>
+    <text x="640" y="362">Yarra Valley, Victoria</text>
+    <text x="640" y="386">Melbourne commute or remote</text>
+    <text x="928" y="362">Full-time roles</text>
+    <text x="928" y="386">Unrestricted work rights</text>
+  </g>
+</svg>

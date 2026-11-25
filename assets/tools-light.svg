@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Tools: languages, front end, back end and data, devices and protocols, security and delivery</title>
+  <rect width="1200" height="300" fill="#f3ebdd"/>
+  <text x="32" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.6" fill="#5c5348">TOOLS / ON HAND</text>
+  <line x1="32" y1="72" x2="1168" y2="72" stroke="#d9cdba" stroke-width="1"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g font-size="11.5" letter-spacing="2.4" fill="#5c5348">
+      <text x="32" y="112">LANGUAGES</text>
+      <text x="400" y="112">FRONT END</text>
+      <text x="784" y="112">BACK END AND DATA</text>
+    </g>
+    <g font-size="16" fill="#221c16">
+      <text x="32" y="140">TypeScript, JavaScript, Kotlin, PHP,</text>
+      <text x="32" y="162">Python, SQL</text>
+      <text x="400" y="140">Vue 3, React, Nuxt UI, Vite,</text>
+      <text x="400" y="162">HTML and CSS</text>
+      <text x="784" y="140">Node.js, Express, MySQL,</text>
+      <text x="784" y="162">PostgreSQL, MongoDB, JSON</text>
+    </g>
+  </g>
+
+  <line x1="32" y1="192" x2="1168" y2="192" stroke="#d9cdba" stroke-width="1"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g font-size="11.5" letter-spacing="2.4" fill="#5c5348">
+      <text x="32" y="232">DEVICES AND PROTOCOLS</text>
+      <text x="400" y="232">SECURITY AND DELIVERY</text>
+      <text x="784" y="232">ALSO</text>
+    </g>
+    <g font-size="16" fill="#221c16">
+      <text x="32" y="260">Arduino, ThingsBoard, MQTT, CoAP,</text>
+      <text x="32" y="282">Modbus, Zigbee, LoRaWAN</text>
+      <text x="400" y="260">Keycloak, passkeys, 2FA, Stripe, Docker,</text>
+      <text x="400" y="282">CI/CD, AWS EC2 and KMS, Azure DevOps</text>
+      <text x="784" y="260">WordPress, WooCommerce,</text>
+      <text x="784" y="282">Microsoft Access, PC repair</text>
+    </g>
+  </g>
+</svg>
